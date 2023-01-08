@@ -1,2 +1,2 @@
-Tournament Game Generator
+## Tournament Game Generator
 
